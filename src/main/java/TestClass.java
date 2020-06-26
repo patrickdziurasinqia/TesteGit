@@ -1,5 +1,6 @@
 public class TestClass {
     private String nome;
+    //Somente um comentário
 
     public String getNome() {
         return nome;
